@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+## 개인 정보 보호 정책
 
-You can use the [editor on GitHub](https://github.com/Ssong0515/Privacy-Policy.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### 1. 개인 정보 처리의 목적, 다음과 같은 목적으로 개인 정보를 처리하며 다른 목적으로 사용하지 않습니다.
+-고객의 데이터는 사용자 만 볼 수 있으며 개인의 동의 없이는 다른 목적으로 사용되지 않습니다.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 2. 개인 정보의 처리 및 보유 기간
+-서비스 종료 후 1 년 이내에 사진 및 비디오가 파기됩니다.
 
-### Markdown
+### 3. 데이터 주체 및 법정 대리인의 권리와 의무 및 행사 방법 개인 데이터 주체로서 다음과 같은 권리를 행사할 수 있습니다.
+① 정보 주체는 언제든지 '애완 동물 대화'와 관련하여 개인 정보를 보호 할 권리를 행사할 수 있습니다.
+1. 개인 정보 접근 요청
+2. 에러시 정정 요청
+3. 요청 삭제
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 4. 처리 할 개인 정보 항목을 만듭니다
+-데이터
 
-```markdown
-Syntax highlighted code block
+### 5. 개인 정보 파기는 개인 정보 처리 목적이 달성 될 때 지체없이 개인 정보를 파기합니다. 파기 절차, 마감일 및 방법은 다음과 같습니다.
 
-# Header 1
-## Header 2
-### Header 3
+#### 파괴 절차
+사용자가 입력 한 정보는 목적 달성 후 별도의 DB로 전송되어 내부 정책 및 기타 관련 법률에 따라 일정 기간 동안 저장 또는 파기됩니다. 현재 DB에 전송 된 개인 정보는 법으로 요구되지 않는 한 다른 목적으로 사용되지 않습니다.
 
-- Bulleted
-- List
+#### 파괴
+개인 정보의 보유 기간이 경과 한 보유 기간 종료 후 5 일 이내에 이용자의 개인 정보가 불필요하게되고, 개인 정보의 처리 목적 달성 등의 개인 정보가 불필요하게 된 경우, 개인 정보는 불필요한 것으로 간주됩니다. 날짜로부터 5 일 이내에 파기됩니다.
 
-1. Numbered
-2. List
+### 6. 개인 정보 자동 수집의 설치, 운영 및 거부에 관한 사항
+데이터 주체의 사용 정보를 자주 저장하고 검색하는 '쿠키'를 사용하지 않습니다.
 
-**Bold** and _Italic_ and `Code` text
+### 7. 개인 정보 문의
+-정보 주체는 서비스 (또는 비즈니스) 사용으로 인해 발생하는 모든 개인 정보 관련 문의, 불만 및 구제 조치에 대해 개인 정보 보호 책임자에게 문의 할 수 있습니다.
+담당자 : 송은석
+이메일 : 406605@naver.com
 
-[Link](url) and ![Image](src)
-```
+### 8. 개인 정보 보호 정책 변경
+① 본 개인 정보 보호 정책은 발효 일부터 적용됩니다. 법률에 따라 추가, 삭제 또는 수정이있을 경우 변경 7 일 전에 통지 할 것입니다.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### 9. 개인 정보의 안전을 보장하기위한 조치
+개인 정보 보호법 제 29 조에 따라 안전을 보장하기 위해 필요한 기술 
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ssong0515/Privacy-Policy.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
