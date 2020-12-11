@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="GlmRmGBdL6wKRbfwDsU_shCfCyzzR58LXQtBLff6ZlU" />
+
 ## 개인 정보 보호 정책
 
 ### 1. 개인 정보 처리의 목적, 다음과 같은 목적으로 개인 정보를 처리하며 다른 목적으로 사용하지 않습니다.
